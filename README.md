@@ -1,8 +1,8 @@
 # Dark theme for makehuman (inspired by dracula theme)
-# Screenshots
+## Screenshots
 
-# Credits
-## Base
+## Credits
+### Base
 This theme builds on the default makehuman theme which is created by Jonas Hauquier and provided under the AGPL3-license.
 <details>
 <summary>AGPL3-license</summary>
@@ -672,7 +672,7 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 ```
 </details>
 
-## Colors
+### Colors
 This theme uses a lot of colors from the official [dracula contributing guideline](https://draculatheme.com/contribute) and the [dracula-vscode-theme](https://github.com/dracula/visual-studio-code) which is provided under the MIT license:
 <details>
 <summary>License text</summary>

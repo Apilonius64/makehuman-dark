@@ -14,6 +14,14 @@ Note: There may be a warning.
 
 All instructions can be found at the [INSTALL.md](https://github.com/Apilonius64/makehuman-dark/blob/main/INSTALL.md) file.
 
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/Apilonius64/makehuman-dark/graphs/contributors).
+
+[<img src="https://avatars.githubusercontent.com/u/103268036?v=4?v=3&s=70" width="70"/>](https://github.com/Apilonius64) |
+:---: |
+[Apilonius64](https://github.com/Apilonius64) |
+
 ## Credits
 ### Base
 This theme builds on the default makehuman theme which is created by Jonas Hauquier and provided under the AGPL3-license.

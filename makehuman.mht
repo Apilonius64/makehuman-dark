@@ -1,0 +1,22 @@
+# Dark theme (inspired by dracula theme) for makehuman. Based on "MakeHuman theme for Qt" by Jonas Hauquier which is provided under the AGPL3 license.
+
+# History
+# 19. Dec 2022 - base modifications by Apilonius64
+
+version 1.2.0
+creator Jonas Hauquier
+color clear 0.098 0.101 0.129
+color grid 0.258 0.290 0.403
+color subgrid 0.196 0.203 0.247
+
+color bgbottomleft 0.098 0.101 0.129
+color bgbottomright 0.098 0.101 0.129
+color bgtopleft 0.098 0.101 0.129
+color bgtopright 0.098 0.101 0.129
+
+logwindow_color DEBUG yellow
+logwindow_color NOTICE lightblue
+logwindow_color INFO white
+logwindow_color WARNING orange
+logwindow_color ERROR red
+logwindow_color CRITICAL red

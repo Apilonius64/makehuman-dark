@@ -1,6 +1,13 @@
 # Dark theme for makehuman
 ![screenshot0.png](https://github.com/Apilonius64/makehuman-dark/blob/main/img/screenshot0.png?raw=true)
 ## How to install
+### Step 1: Find your makehuman theme dictionary
+If you use windows, it may be something like `C:\Program Files\makehuman-community\makehuman\data\themes`.
+
+### Step 2: Replace `makehuman.mht` and `makehuman.qss` with the files in the `themes/` folder of the repository
+Note: There may be a warning.
+
+### Step 3: Select the makehuman theme in the settings
 
 ## Credits
 ### Base

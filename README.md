@@ -1,5 +1,4 @@
 # Dark theme for makehuman
-## Screenshots
 
 ## Credits
 ### Base

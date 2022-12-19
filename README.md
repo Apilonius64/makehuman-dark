@@ -10,6 +10,8 @@ Note: There may be a warning.
 ### Step 3: Select the makehuman theme in the settings
 ![screenshot1.png](https://github.com/Apilonius64/makehuman-dark/blob/main/screenshots/screenshot1.png?raw=true)
 
+All instructions can be found at the [INSTALL.md](https://github.com/Apilonius64/makehuman-dark/blob/main/INSTALL.md) file.
+
 ## Credits
 ### Base
 This theme builds on the default makehuman theme which is created by Jonas Hauquier and provided under the AGPL3-license.

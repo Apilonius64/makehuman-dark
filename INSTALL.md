@@ -13,5 +13,5 @@ Download using the GitHub [.zip download option](https://github.com/Apilonius64/
 
 2.  Replace `makehuman.mht` and `makehuman.qss` with the files in the `themes/` folder of the repository. Note: There may be a warning.
 
-3.  Select the makehuman theme in the settings<br>
+3.  Restart makehuman and select the makehuman theme in the settings<br>
 ![#screenshot1.png](https://github.com/Apilonius64/makehuman-dark/blob/main/screenshots/screenshot1.png?raw=true)

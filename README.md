@@ -1,4 +1,6 @@
 # Dark theme for makehuman
+![screenshot0.png](https://github.com/Apilonius64/makehuman-dark/blob/main/img/screenshot0.png?raw=true)
+## How to install
 
 ## Credits
 ### Base

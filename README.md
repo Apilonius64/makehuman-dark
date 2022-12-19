@@ -1,4 +1,4 @@
-# Dark theme for makehuman (inspired by dracula theme)
+# Dark theme for makehuman
 ## Screenshots
 
 ## Credits

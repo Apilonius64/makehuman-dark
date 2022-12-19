@@ -8,6 +8,7 @@ If you use windows, it may be something like `C:\Program Files\makehuman-communi
 Note: There may be a warning.
 
 ### Step 3: Select the makehuman theme in the settings
+![screenshot1.png](https://github.com/Apilonius64/makehuman-dark/blob/main/img/screenshot1.png?raw=true)
 
 ## Credits
 ### Base

@@ -723,5 +723,5 @@ SOFTWARE.
 ```
 </details>
 
-## LICENSE
+## License
 [AGPL v3.0](https://github.com/Apilonius64/makehuman-dark/blob/main/LICENSE)
